@@ -21,5 +21,5 @@ Developed with modularity in mind, this setup serves as a foundational vision fr
 ├── computer_vision_4livevideo.py       # Live webcam processing and video generation pipeline
 ├── computer_vision_4static_images.py      # Automated batch processing script for local images
 ├── yolov8n.pt                             # Pre-trained YOLOv8 Nano weight checkpoint (COCO)
-├── input_file_0.png... input_file_13.png  # Batch sample assets for static analysis
+├── Meredith.jpg and benjamin.jpg  # Batch sample assets for static analysis
 └── README.md                              # Project documentation
